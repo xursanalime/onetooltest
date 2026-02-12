@@ -1,4 +1,4 @@
 aiogram==3.7.0
 yt-dlp
-shazamio==0.4.0
+shazamio==0.6.0
 aiohttp
